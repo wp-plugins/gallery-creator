@@ -6,10 +6,10 @@
  */
 /*
 Plugin Name: Gallery Creator
-Plugin URI: http://dev.chadda.se/wprequireauth/
-Description: This plugin makes it mandatory to be logged in before viewing any content.
-Author: Johnny Chadda
 Version: 1.0.1
+Description: Gallery Creator is a plugin which reveals hidden gallery settings in WordPress.
+Author: Johnny Chadda
+Plugin URI: http://dev.chadda.se/wprequireauth/
 Author URI: http://johnny.chadda.se/
 */
 
