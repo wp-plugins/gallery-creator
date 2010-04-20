@@ -1,0 +1,26 @@
+label
+{
+	display: block;
+	font-weight: bold;
+	text-align: right;
+	width: 200px;
+	float: left;
+	clear: left;
+}
+
+select
+{
+	float: left;
+	width: 100px;
+	margin: 2px 0 20px 10px;
+}
+
+input
+{
+	float: right;
+}
+
+.input_clear
+{
+	clear: both;
+}
