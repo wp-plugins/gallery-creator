@@ -4,7 +4,7 @@ Donate link: http://johnny.chadda.se/donate/
 Tags: image, gallery, post
 Requires at least: 2.8
 Tested up to: 2.9.2
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 
 Gallery Creator is a plugin which reveals hidden gallery settings in WordPress.
 
