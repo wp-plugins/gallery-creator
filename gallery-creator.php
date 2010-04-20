@@ -9,7 +9,7 @@ Plugin Name: Gallery Creator
 Version: 1.0.1
 Description: Gallery Creator is a plugin which reveals hidden gallery settings in WordPress.
 Author: Johnny Chadda
-Plugin URI: http://dev.chadda.se/wprequireauth/
+Plugin URI: http://johnny.chadda.se/projects/gallery-creator/
 Author URI: http://johnny.chadda.se/
 */
 
