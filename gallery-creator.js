@@ -25,15 +25,15 @@ function GalleryCreator()
 		
 		// Get the image size
 		var imagesize = $('#gallerycreator_imagesize').val();
-		gallery_tag += ' imagesize="'+ imagesize +'"';
+		gallery_tag += ' size="'+ imagesize +'"';
 		
 		// Get the image order
 		var orderby = $('#gallerycreator_orderby').val();
-		gallery_tag += ' orderby="'+ orderby +'"';
+		gallery_tag += ' orderby="'+ orderby +' ASC"';
 		
 		// Get image link
 		var linkto = $('#gallerycreator_linkto').val();
-		gallery_tag += ' linkto="'+ linkto +'"';
+		gallery_tag += ' link="'+ linkto +'"';
 		
 		// Close the gallery tag
 		gallery_tag += ']';
